@@ -4,7 +4,7 @@ An easy and usable to do app but only for android.
 
 # Screenshots
 
-<div style="justfy-content: center, align-items: space-evenly">
+<div justfy-content = "center", align-items = "space-evenly">
 <img src="/src/assets/images/screenshots/Screenshot_1627011210.png" height="400px"/>
 <img src="/src/assets/images/screenshots/Screenshot_1627011264.png" height="400px"/>
 </div>

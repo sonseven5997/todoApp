@@ -4,12 +4,16 @@ An easy and usable to do app but only for android.
 
 # Screenshots
 
+<div>
 <img src="/src/assets/images/screenshots/Screenshot_1627011210.png" height="400px"/>
 <img src="/src/assets/images/screenshots/Screenshot_1627011264.png" height="400px"/>
 <img src="/src/assets/images/screenshots/Screenshot_1627011276.png" height="400px"/>
+</div>
+<div>
 <img src="/src/assets/images/screenshots/Screenshot_1627011305.png" height="400px"/>
 <img src="/src/assets/images/screenshots/Screenshot_1627011315.png" height="400px"/>
 <img src="/src/assets/images/screenshots/Screenshot_1627011324.png" height="400px"/>
+</div>
 <img src="/src/assets/images/screenshots/Screenshot_1627011353.png" height="400px"/>
 
 # Download

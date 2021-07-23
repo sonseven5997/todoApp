@@ -4,12 +4,9 @@ An easy and usable to do app but only for android.
 
 # Screenshots
 
-<img src="/src/assets/images/screenshots/Screenshot_1627011210.png" height="400px"/>
-<img src="/src/assets/images/screenshots/Screenshot_1627011264.png" height="400px"/>
-<img src="/src/assets/images/screenshots/Screenshot_1627011276.png" height="400px"/>
-<img src="/src/assets/images/screenshots/Screenshot_1627011305.png" height="400px"/>
-<img src="/src/assets/images/screenshots/Screenshot_1627011315.png" height="400px"/>
-<img src="/src/assets/images/screenshots/Screenshot_1627011324.png" height="400px"/>
+<img src="/src/assets/images/screenshots/Screenshot_1627011210.png" height="400px"/> <img src="/src/assets/images/screenshots/Screenshot_1627011264.png" height="400px"/>
+<img src="/src/assets/images/screenshots/Screenshot_1627011276.png" height="400px"/> <img src="/src/assets/images/screenshots/Screenshot_1627011305.png" height="400px"/>
+<img src="/src/assets/images/screenshots/Screenshot_1627011315.png" height="400px"/> <img src="/src/assets/images/screenshots/Screenshot_1627011324.png" height="400px"/>
 <img src="/src/assets/images/screenshots/Screenshot_1627011353.png" height="400px"/>
 
 # Download
